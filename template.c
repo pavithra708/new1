@@ -14,4 +14,7 @@ div(){
 modulus(){
 	printf("Remainder");
 }
+power(){
+	printf("Power");
+}
 }
