@@ -11,4 +11,7 @@ mul(){
 div(){
 	printf("division");
 }
+modulus(){
+	printf("Remainder");
+}
 }
