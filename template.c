@@ -6,5 +6,7 @@ sub(){
   printf("Subtraction");
 }
 mul();
-div();
+div(){
+	printf("division");
+}
 }
